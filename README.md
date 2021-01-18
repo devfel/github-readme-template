@@ -139,7 +139,7 @@ Text Example:
 
 ## 📝 Liceses <a name = "licenses"></a>
 
-- Distributed under the MIT License - see the [LICENSE.md]("./LICENSE.md")LICENSE.md file for details.
+- Distributed under the MIT License - see the [LICENSE.md]("./LICENSE.md") file for details.
 
 ---
 
