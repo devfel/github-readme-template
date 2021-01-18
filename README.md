@@ -3,8 +3,8 @@
  <img  src="https://devfel.com/imgs/devfel-logo-01.JPG" alt="DevFel"></a>
 </p>
 
-<h1 align="center">Embroidery Floss Converter</h1>
-<h3 align="center"> 🔗 Try it live at: https://devfel.github.io/convertfloss/ </h3>
+<h1 align="center">GitHub Readme Template</h1>
+<h3 align="center"> 🔗 Try it live at: https://github.com/devfel/github-readme-template </h3>
 
 <div align="center">
 
@@ -16,11 +16,13 @@
 ---
 
 <p align="center"> 
-In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart conversion used by embroidery professionals to convert floss (a.k.a. threads) from one brand to another. It can also be used to find a specific color and look for the code companies use for them. All the data comes from a JSON file created by myself and stored within the data folder.</p>
+This is a GitHub README Template use at your will. 
+Text Example:
+In this <b>responsive</b> project using HTML, CSS and JavaScript application I created a ...</p>
 
   <p align="center">
   <a href="" rel="noopener">
- <img  width="600px" src="./assets/convertfloss.gif" alt="Embroidery Floss Converter"></a>
+ <img  width="600px" src="./assets/readme.jpg" alt=""></a>
 </p>
 
 ---
@@ -40,11 +42,13 @@ In this <b>responsive</b> HTML, CSS and JavaScript application I created a chart
 
 ## 🕹 Test Here <a name = "live"></a>
 
-https://devfel.github.io/
+https://github.com/devfel/github-readme-template
 
 ---
 
 ## 🧐 Application Features <a name = "features"></a>
+
+Text Example:
 
 - **_List all the Colors and Threads:_** Button to list the complete table with all the colors and floss codes.
 - **_Search by color name:_** Option to look for a thread by its color name. It is possible, for example, to search for a color and find all its shades
@@ -54,6 +58,7 @@ https://devfel.github.io/
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
+Text Example:
 Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it with in your browser.
 
 You can clone the repository through Command Prompt or Terminal just by typing:
@@ -64,9 +69,17 @@ git clone https://github.com/devfel/convertfloss.git
 
 or download the zip from the green **"Code"** button.
 
+Install dependencies packages with yarn
+
+```sh
+yarn
+```
+
 ---
 
 ## ⛏️ Built Using <a name = "built_using"></a>
+
+Text Example:
 
 - [JavaScript](https://www.javascript.com/) - Programming Language
 - [HTML](https://pt.wikipedia.org/wiki/HTML) - Markup Language
@@ -77,16 +90,18 @@ or download the zip from the green **"Code"** button.
 
 ## 🎉 Acknowledgements <a name = "acknowledgements"></a>
 
-- JSON file created based on [DMC CrazyArtZone](http://dmc.crazyartzone.com/index.asp) chart.
+Text Example:
+
+- JSON file created based on [DevFel](https://devfel.com/) chart.
 
 ---
 
 ## 📝 Liceses <a name = "licenses"></a>
 
-- Distributed under the MIT License.
+- Distributed under the MIT License - see the [LICENSE.md]("./LICENSE.md")LICENSE.md file for details.
 
 ---
 
 ## ✍️ Author <a name = "authors"></a>
 
-- [@devfel](https://github.com/devfel) - Luiz Flávio Felizardo
+- [@devfel](https://devfel.com/) - Luiz Flávio Felizardo
