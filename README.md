@@ -19,7 +19,7 @@
 This is a GitHub README Template, use at your will. 
 Text Example:
 In this <b>responsive</b> project using HTML, CSS and JavaScript application I created a ...</p>
-
+<p align="center"> I recomend creating a gif out of screenshots of your work at: https://ezgif.com/maker</p>
   <p align="center">
   <a href="" rel="noopener">
  <img  width="600px" src="./assets/readme.jpg" alt=""></a>
