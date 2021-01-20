@@ -34,8 +34,7 @@ In this <b>responsive</b> project using HTML, CSS and JavaScript application I c
 - [Getting Started](#getting_started)
 - [Dependencies](#dependencies)
 - [Built Using](#built_using)
-- [Dependencies](#dependencies)
-- [Acknowledgments](#acknowledgements)
+- [Acknowledgements](#acknowledgements)
 - [Liceses](#licenses)
 - [Authors](#authors)
 
