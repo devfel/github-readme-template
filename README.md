@@ -19,11 +19,9 @@
 This is a GitHub README Template, use at your will. 
 Text Example:
 In this <b>responsive</b> project using HTML, CSS and JavaScript application I created a ...</p>
-<p align="center"> I recomend creating a gif out of screenshots of your work at: https://ezgif.com/maker</p>
   <p align="center">
-  <a href="" rel="noopener">
- <img  width="600px" src="./assets/readme.jpg" alt=""></a>
-</p>
+    <img  width="600px" src="./assets/readme.jpg" alt="ALT-TEXT-EXAMPLE"></a>
+  </p>
 
 ---
 
@@ -35,7 +33,7 @@ In this <b>responsive</b> project using HTML, CSS and JavaScript application I c
 - [Dependencies](#dependencies)
 - [Built Using](#built_using)
 - [Acknowledgements](#acknowledgements)
-- [Liceses](#licenses)
+- [Licenses](#licenses)
 - [Authors](#authors)
 
 ---
@@ -47,8 +45,6 @@ https://github.com/devfel/github-readme-template
 ---
 
 ## 🧐 Application Features <a name = "features"></a>
-
-Text Example:
 
 - **_List all the Colors and Threads:_** Button to list the complete table with all the colors and floss codes.
 - **_Search by color name:_** Option to look for a thread by its color name. It is possible, for example, to search for a color and find all its shades
@@ -65,7 +61,6 @@ With this application the user is able to:<br/>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-Text Example:
 Because this was done using only HTML, CSS and JavaScript it can be replicated easily within your own browser without much trouble, just clone the project and you can run it with in your browser.
 
 You can clone the repository through Command Prompt or Terminal just by typing:
@@ -86,7 +81,6 @@ yarn
 
 ## 🔁 Dependencies <a name = "dependencies"></a>
 
-Text Example:
 Some project library dependencies includes but are not limited to:
 
 - "axios": "^0.19.2",
@@ -111,8 +105,6 @@ Some project library dependencies includes but are not limited to:
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-Text Example:
-
 - [ReactJS](https://reactjs.org/) - Web Framework
 - [JavaScript](https://www.javascript.com/) - Programming Language
 - [Typescript](https://www.typescriptlang.org/) - Programming Language
@@ -129,8 +121,6 @@ Text Example:
 ---
 
 ## 🎉 Acknowledgements <a name = "acknowledgements"></a>
-
-Text Example:
 
 - JSON file created based on [DevFel](https://devfel.com/) chart.
 
