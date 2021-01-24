@@ -16,9 +16,10 @@
 ---
 
 <p align="center"> 
-This is a GitHub README Template, use at your will. 
+This is a GitHub README Template, use at your will.
 
 E.g. In this <b>responsive</b> project using HTML, CSS and JavaScript application I created a ...</p>
+
   <p align="center">
     <img  width="600px" src="./assets/readme.jpg" alt="ALT-TEXT-EXAMPLE"></a>
   </p>
